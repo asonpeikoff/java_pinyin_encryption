@@ -8,7 +8,7 @@ import java.io.*;
 import java.*;
 
 /**
- * @author Jason Miller
+ * @author Ason Peikoff
  * @category EL_ENG_X436_2_Project
  */
 public class PinyinUI {

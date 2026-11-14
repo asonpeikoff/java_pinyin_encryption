@@ -1,7 +1,7 @@
 package pinyincrypto;
 import java.util.*;
 /**
- * @author Jason Miller
+ * @author Ason Peikoff
  * @category EL_ENG_X436_2_Project
  */
 public class Encrypt2Pinyin {
